@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ATMEGA328P-AU") (type "KiCad") (uri "C:/Users/Pallavi/Downloads/Kicad/tiny Solar supply/libraries/ATMEGA328P-AU") (options "") (descr ""))
+	(lib (name "DS1337S_") (type "KiCad") (uri "C:/Users/Pallavi/Downloads/Kicad/tiny Solar supply/libraries/DS1337S_") (options "") (descr ""))
+	(lib (name "Footprints") (type "KiCad") (uri "C:/Users/Pallavi/Downloads/Kicad/tiny Solar supply/libraries/Footprints") (options "") (descr ""))
+)
